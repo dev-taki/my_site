@@ -15,9 +15,19 @@ slorber:
   image_url: https://github.com/slorber.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: "/all-sebastien-lorber-articles"
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+taki:
+  name: Taki
+  title: Juniro Software Engineer @ WhatsAble
+  url: https://github.com/dev-taki
+  image_url: https://github.com/dev-taki/my_site/tree/main/static/img/taki-dev.png
+  page: true
+  socials:
+    # x: yangshunz
+    github: taki-dev
